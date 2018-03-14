@@ -11,21 +11,7 @@ fun main(args: Array<String>) {
         delay(1000)
       }
     }
+
+    delay(1000)
   }
-  waitProcess()
-}
-
-
-
-
-
-
-
-
-
-
-
-
-fun waitProcess() {
-  Thread.sleep(2000)
 }
