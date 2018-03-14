@@ -1,0 +1,34 @@
+*.class
+
+bin/
+gen/
+out/
+
+.gradle/
+build/
+
+local.properties
+
+proguard/
+
+*.log
+
+.navigation/
+
+captures/
+
+# IntelliJ
+*.iml
+.idea
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
